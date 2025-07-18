@@ -38,7 +38,8 @@ This project compares the performance of a **1D CNN model** and a **Deep Neural 
 
 <img width="950" height="787" alt="image" src="https://github.com/user-attachments/assets/845bd373-782d-491f-84dd-2b6448b4118a" />
 
-<img width="950" height="787" alt="image" src="https://github.com/user-attachments/assets/e28d3006-0cf4-43ec-bb58-78098049196e" />
+<img width="841" height="624" alt="image" src="https://github.com/user-attachments/assets/3002de5c-dc3e-41ee-a1a0-634a36fa57a0" />
+
 
 ---
 
